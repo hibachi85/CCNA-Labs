@@ -14,5 +14,5 @@ Servers (end host) (x2)
 
 __
 * Files included in this folder.*
-* 'topology.png' (network Topology Diagram)
-* 'network.pkt' (Cisco Packet Tracer File) 
+* [topology.png](topology.png) (network Topology Diagram)
+* [topology.pkt](topology.pkt) (Cisco Packet Tracer File) 
