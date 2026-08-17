@@ -1,4 +1,5 @@
-# lab-01 focuses on Cisco devices (end hosts, switches, routers, firewalls, and how they connect in the network)
+# lab-01 
+focuses on Cisco devices (end hosts, switches, routers, firewalls, and how they connect in the network)
 
 ## Scenario & Architecture:
 I created a lab for a virtual company with two branches, one in NewYourk and the other in Tokyo, and I connetcted then togather using:
