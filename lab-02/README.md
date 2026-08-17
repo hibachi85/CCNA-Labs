@@ -21,5 +21,5 @@ Connect the network devices according to the labels.\
 
 ____
 ### Files included in this folder:*
-* `topology.png` (Network Topology Diagram)
-* `topology.pkt` (Cisco Packet Tracer file)
+* [topology.png](topology.png) (Network Topology Diagram)
+* [topology.pkt](topology.pkt) (Cisco Packet Tracer file)
