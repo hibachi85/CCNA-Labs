@@ -20,6 +20,6 @@ Connect the network devices according to the labels.\
 * Server (1)
 
 ____
-* Files included in this folder:*
-* 'topology.png' (Network Topology Diagram)
-* 'topology.png' (Cisco Packet Tracer file)
+### Files included in this folder:*
+* [topology.png] (Network Topology Diagram)
+* [topology.pkt] (Cisco Packet Tracer file)
